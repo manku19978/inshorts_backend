@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Active",
+    "count": "151209",
+    "countChange": "(2567)"
+  },
+  {
+    "title": "Discharged",
+    "count": "33697740",
+    "countChange": "(14159)"
+  },
+  {
+    "title": "Deaths",
+    "count": "459191",
+    "countChange": "(311)"
+  },
+  {
+    "title": "Total Vaccinations",
+    "count": "1,07,29,66,315",
+    "countChange": "(41,16,230)"
+  }
+]
