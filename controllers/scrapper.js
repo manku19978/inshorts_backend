@@ -1,8 +1,6 @@
 import axios from 'axios'
 import cheerio from 'cheerio'
-import { count } from 'console'
 import fs from 'fs'
-import { title } from 'process'
 import { formatString } from '../utils/formatText'
 
 export async function scrapeData(url) {
