@@ -19,7 +19,7 @@ export async function scrapeData(url) {
             }
         ]
 
-        fs.writeFile(
+        fs.writeFileSync(
             'data.json',
             JSON.stringify(requiredData, null, 2),
             err => {
