@@ -1,8 +1,8 @@
 import express from 'express'
 import cors from 'cors'
 import fs from 'fs'
-import { scrapeData } from './controllers/scrapper'
-import { PORT, URL } from './utils/constants'
+import { scrapeData } from './controllers/scrapper.js'
+import { PORT, URL } from './utils/constants.js'
 
 const app = express()
 app.use(cors())
